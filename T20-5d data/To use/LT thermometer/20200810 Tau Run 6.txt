@@ -1,0 +1,3 @@
+Tau file for Run 6 on 20200810 on sample T20-5d, LT thermometer,  dT/T0 = 0.02
+T0 (K)    Tau (s)
+2.185    0.00995693

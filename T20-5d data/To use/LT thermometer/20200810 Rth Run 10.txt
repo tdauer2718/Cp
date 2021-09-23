@@ -1,0 +1,3 @@
+LT NbSi thermometer resistance file for Run 10 on 20200810 on sample T20-5d, LT thermometer
+T0 (K)    Rth (ohms)
+2.2    23209.8
